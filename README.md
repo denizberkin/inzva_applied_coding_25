@@ -14,7 +14,7 @@ The performance of the model is not the first consideration. Being able to write
 
 
 
-Here is the **[dataset link](https://ai.stanford.edu/~amaas/data/sentiment)** to start working and **[kaggle link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)** to check further solutions.
+Here is the **[kaggle link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)** for dataset.
 
 
 ## Deliverables
