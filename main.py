@@ -27,8 +27,9 @@ def predict(sample) -> str:
     return None
 
 
-# this is a pseudo test function to give an idea
+"""
+# this is a pseudo test function to give an idea, you can delete it if you want
 def test_model(test_sample: str, label: str) -> None:
     result = predict(test_sample)
     return result == label
-
+"""
