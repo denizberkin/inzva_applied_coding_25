@@ -5,7 +5,7 @@ This is the repository for the application of Inzva Applied AI 2025 coding quest
 
 ## Task
 
-Your task is to create a model to classify the movie comments provided into positive or negative sentiments.
+Your task is to create a model to classify the movie comments provided into positive or negative sentiments that achieves **80% accuracy**. 
 
 For us to be able to check your solutions, please refer to the **warning section** in [deliverables](#deliverables).
 
